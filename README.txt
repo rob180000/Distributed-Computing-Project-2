@@ -13,4 +13,4 @@ I am Thread ID 5 and my leader is 67
 I am Thread ID 12 and my leader is 67
 I am Thread ID 67 and my leader is 67
 
-Total messages sent = 24
+Total messages sent = 13
